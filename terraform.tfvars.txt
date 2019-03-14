@@ -1,0 +1,6 @@
+resource_group = "terraform-beginners-basic"
+hostname = "kirankr"
+location = "centralus"
+# use this command to see available regions
+#az account list-locations --output table
+#az vm list-skus -l centralus --output table | grep standard_A0

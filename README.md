@@ -1,2 +1,2 @@
-# terraform-beginners
-to run basic VM
+# azure-terraform-beginners
+Beginners Guide to Terraforming Azure
